@@ -1,5 +1,5 @@
-# sparkify
-Churn Prediction with Apache Spark
+# Sparkify
+Udacity Data Science Nanodegree Capstone Project. Churn prediction for imaginary music streaming service Sparkify
 
 ### Table of Contents
 
