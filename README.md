@@ -29,7 +29,7 @@ Sample Data Sets is available on the S3 server:
 
 ## Results <a name="results"></a>
 
-Findings can be found in notebook and blog post I shared [here]()
+Findings can be found in notebook and blog post I shared [here](https://medium.com/@erten.ufuk/churn-prediction-for-sparkify-de092a5e14c0)
 
 ## Licensing <a name="licensing"></a>
 The dataset was provided by Udacity https://www.udacity.com/
